@@ -1,5 +1,5 @@
 # hiam 
-An SAML-2 Identity Provider (IdP)
+A SAML-2 Identity Provider (IdP)
 
 ## Build
 
